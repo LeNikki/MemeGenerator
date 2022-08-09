@@ -1,3 +1,4 @@
+To visit live site: http://LeNikki.github.io/MemeGenerator
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
